@@ -1,0 +1,4 @@
+001, Nguyen Van A, 48, Dak Nong, 01/01/2004, true, 8, 9, 10
+002, Nguyen Van B, 48, Dak Nong, 01/01/2004, true, 8, 9, 10
+003, Nguyen Van C, 47, Dak Lak, 01/01/2004, true, 8, 9, 10
+004, Nguyen Van D, 49, Lam Dong, 01/01/2004, true, 8, 9, 10
